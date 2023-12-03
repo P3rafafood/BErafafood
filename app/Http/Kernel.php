@@ -7,7 +7,7 @@ use Illuminate\Foundation\Http\Kernel as HttpKernel;
 class Kernel extends HttpKernel
 {
     /**
-     * Tumpukan middleware HTTP global aplikasi.
+     * Global application HTTP middleware stack.
      *
      * Middleware ini dijalankan pada setiap permintaan ke aplikasi Anda.
      *
