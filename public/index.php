@@ -35,7 +35,7 @@ require __DIR__.'/../vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
-| RUNNING APPLICATION
+| Run The Application
 |--------------------------------------------------------------------------
 |
 | Once we have the application, we can handle the incoming request using
